@@ -1,1 +1,3 @@
-# personal_finance_app
+# Personal Finance App
+
+App per gestire le finanze personali
